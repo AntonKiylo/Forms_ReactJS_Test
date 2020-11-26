@@ -1,0 +1,17 @@
+.ethernet-section {
+  grid-area: ethernet;
+  border-right: 1px solid rgba(0, 0, 0, .2);
+  padding: 15px;
+}
+
+.ethernet-section * {
+  margin: 6px 0;
+}
+
+.ethernet-section div {
+  text-align: end;
+}
+
+.IP-inputs {
+  color: lightgray;
+}

@@ -1,0 +1,12 @@
+.wireless-section {
+  grid-area: wireless;
+  padding: 15px;
+}
+
+.wireless-section * {
+  margin: 6px 0;
+}
+
+.wireless-section div {
+  text-align: end;
+}
